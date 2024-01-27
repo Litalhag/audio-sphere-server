@@ -1,6 +1,5 @@
 node_modules
 config/config.env
-config/db.js
 config/passport.js
 config/audiosphere-firebase-adminsdk.json
 _data/
