@@ -100,6 +100,7 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   const corsOptions = {
     origin: [
+      'https://audio-sphere.onrender.com',
       'http://127.0.0.1:3000',
       'http://localhost:3000',
       'http://127.0.0.1:5173',
